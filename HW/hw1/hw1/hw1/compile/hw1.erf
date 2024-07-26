@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw1/hw1/hw1/src/Q4.vhd" 
+MESSAGE "Compile Entity "q4"" 
+MESSAGE "Compile Architecture "qq4" of Entity "q4"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

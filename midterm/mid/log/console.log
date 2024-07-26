@@ -1,0 +1,8 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work mid -2002  $dsn/src/q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/midterm/mid/src/q3.vhd
+# Compile Entity "flip_flop"
+# Compile Architecture "behavioral" of Entity "flip_flop"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]

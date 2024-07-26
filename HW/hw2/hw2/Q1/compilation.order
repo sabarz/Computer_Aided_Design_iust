@@ -1,0 +1,9 @@
+.\src\q1.vhd
+.\src\typr_q1.vhd
+.\src\q2.vhd
+.\src\q3.vhd
+.\src\q4.vhd
+.\src\TestBench\q1_TB.vhd
+.\src\TestBench\q2_TB.vhd
+.\src\TestBench\q3_TB.vhd
+.\src\TestBench\q4_TB.vhd

@@ -1,0 +1,10 @@
+.\src\q1.vhd
+.\src\q1_2.vhd
+.\src\q4.vhd
+.\src\q11.vhd
+.\src\q22.vhd
+.\src\TestBench\mealy_TB.vhd
+.\src\TestBench\moore_TB.vhd
+.\src\TestBench\nmd_TB.vhd
+.\src\TestBench\q_TB.vhd
+.\src\TestBench\q2_TB.vhd

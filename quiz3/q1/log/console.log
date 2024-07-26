@@ -1,0 +1,97 @@
+# Design: Design q1 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "LCM_GCD"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "LCM_GCD"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "LCM_GCD"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "LCM_GCD"
+# Error: COMP96_0018: q1.vhd : (10, 1): Identifier expected.
+# Error: COMP96_0015: q1.vhd : (10, 1): ')' expected.
+# Error: COMP96_0015: q1.vhd : (10, 1): ';' expected.
+# Error: COMP96_0019: q1.vhd : (10, 5): Keyword 'end' expected.
+# Error: COMP96_0056: q1.vhd : (12, 1): Cannot find referenced entity declaration "LCM_GCD".
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -reorder -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0018: q1.vhd : (10, 1): Identifier expected.
+# Error: COMP96_0015: q1.vhd : (10, 1): ')' expected.
+# Error: COMP96_0015: q1.vhd : (10, 1): ';' expected.
+# Error: COMP96_0019: q1.vhd : (10, 5): Keyword 'end' expected.
+# Error: COMP96_0056: q1.vhd : (12, 1): Cannot find referenced entity declaration "nmd".
+# Compile failure 5 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -reorder -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0018: q1.vhd : (9, 31): Identifier expected.
+# Error: COMP96_0015: q1.vhd : (10, 1): ';' expected.
+# Error: COMP96_0019: q1.vhd : (10, 5): Keyword 'end' expected.
+# Error: COMP96_0056: q1.vhd : (12, 1): Cannot find referenced entity declaration "nmd".
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -reorder -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => nmd
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0078: q1.vhd : (28, 18): Unknown identifier "temp".
+# Error: COMP96_0133: q1.vhd : (28, 18): Cannot find object declaration.
+# Error: COMP96_0077: q1.vhd : (28, 18): Undefined type of expression. Expected type 'INTEGER'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.7 [s]
+acom -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -e 100 -work q1 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# Design: Design "q1" has been set as active.

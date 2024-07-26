@@ -1,0 +1,11 @@
+16
+~E 1 "../src/q2.vhd" 8 hi
+~A 1 "../src/q2.vhd" 21 Behavioral
+~E 1 "../src/TestBench/hi_TB.vhd" 14 hi_tb
+~A 1 "../src/TestBench/hi_TB.vhd" 20 TB_ARCHITECTURE
+~E 1 "../src/q1.vhd" 8 nmd
+~A 1 "../src/q1.vhd" 126 Behavioral
+~E 1 "../src/TestBench/nmd_TB.vhd" 7 nmd_tb
+~A 1 "../src/q1.vhd" 165 TB_ARCHITECTURE
+~C 1 "../src/TestBench/hi_TB.vhd" 69 testbench_for_hi
+~C 1 "../src/q1.vhd" 225 testbench_for_nmd

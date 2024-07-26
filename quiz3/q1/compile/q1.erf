@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd" 
+MESSAGE "Compile Entity "nmd"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "nmd"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

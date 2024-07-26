@@ -1,0 +1,11 @@
+18
+~E 1 "../src/q1.vhd" 6 Counter
+~A 1 "../src/q1.vhd" 17 Behavioral
+~E 1 "../src/TestBench/counter_TB.vhd" 8 counter_tb
+~A 1 "../src/TestBench/counter_TB.vhd" 11 TB_ARCHITECTURE
+~E 1 "../src/q3.vhd" 6 flip_flop
+~A 1 "../src/q3.vhd" 18 behavioral
+~E 1 "../src/q3.vhd" 6 FlipFlop
+~E 1 "../src/q3.vhd" 5 special_ff
+~A 1 "../src/q3.vhd" 16 behavioral
+~C 1 "../src/TestBench/counter_TB.vhd" 83 testbench_for_counter

@@ -1,0 +1,52 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Q1
+[Library]
+Q1=.\Q1\Q1.lib
+[$LibMap$]
+Q1=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/q1.vhd=-1
+/typr_q1.vhd=-1
+/q2.vhd=-1
+/q3.vhd=-1
+/q4.vhd=-1
+TestBench/q1_TB.vhd=-1
+TestBench/q1_TB_runtest.do=-1
+TestBench/q2_TB.vhd=-1
+TestBench/q2_TB_runtest.do=-1
+TestBench/q3_TB.vhd=-1
+TestBench/q3_TB_runtest.do=-1
+TestBench/q4_TB.vhd=-1
+TestBench/q4_TB_runtest.do=-1
+[Files.Data]
+.\src\q1.vhd=VHDL Source Code
+.\src\typr_q1.vhd=VHDL Source Code
+.\src\q2.vhd=VHDL Source Code
+.\src\q3.vhd=VHDL Source Code
+.\src\q4.vhd=VHDL Source Code
+.\src\TestBench\q1_TB.vhd=VHDL Test Bench
+.\src\TestBench\q1_TB_runtest.do=Macro
+.\src\TestBench\q2_TB.vhd=VHDL Test Bench
+.\src\TestBench\q2_TB_runtest.do=Macro
+.\src\TestBench\q3_TB.vhd=VHDL Test Bench
+.\src\TestBench\q3_TB_runtest.do=Macro
+.\src\TestBench\q4_TB.vhd=VHDL Test Bench
+.\src\TestBench\q4_TB_runtest.do=Macro
+[HierarchyViewer]
+HierarchyInformation=q4_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=
+[Groups]
+TestBench=1

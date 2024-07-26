@@ -1,0 +1,20 @@
+22
+~E 1 "../src/q1.vhd" 4 mealy
+~A 1 "../src/q1.vhd" 15 Behavioral
+~E 1 "../src/TestBench/mealy_TB.vhd" 6 mealy_tb
+~A 1 "../src/TestBench/mealy_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "../src/q1_2.vhd" 4 moore
+~A 1 "../src/q1_2.vhd" 13 Behavioral
+~E 1 "../src/q4.vhd" 4 nmd
+~A 1 "../src/q4.vhd" 11 Behavioral
+~E 1 "../src/q11.vhd" 5 q
+~A 1 "../src/q11.vhd" 23 Behavioral
+~E 1 "../src/q22.vhd" 5 q2
+~A 1 "../src/q22.vhd" 17 behavioral
+~E 1 "../src/TestBench/q2_TB.vhd" 7 q2_tb
+~A 1 "../src/TestBench/q2_TB.vhd" 13 TB_ARCHITECTURE
+~E 1 "../src/TestBench/q_TB.vhd" 7 q_tb
+~A 1 "../src/q11.vhd" 130 TB_ARCHITECTURE
+~C 1 "../src/TestBench/mealy_TB.vhd" 61 testbench_for_mealy
+~C 1 "../src/q11.vhd" 240 testbench_for_q
+~C 1 "../src/TestBench/q2_TB.vhd" 76 testbench_for_q2

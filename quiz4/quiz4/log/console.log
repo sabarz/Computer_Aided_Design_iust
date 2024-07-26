@@ -1,0 +1,371 @@
+# Design: Design quiz4 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work quiz4 -2002  $dsn/src/q2_p.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2_p.vhd
+# Compile Package "Calculator_pkg"
+# Compile Package Body "Calculator_pkg"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => Calculator
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (19, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (19, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (19, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (19, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: q2.vhd : (21, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (21, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (21, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (21, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (19, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (19, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (19, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (19, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: q2.vhd : (21, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (21, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (21, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (21, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2_p.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2_p.vhd
+# Compile Package "Calculator_pkg"
+# Compile Package Body "Calculator_pkg"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (20, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (20, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (20, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (20, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: q2.vhd : (22, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (22, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (22, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (22, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (22, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (22, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (22, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (22, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: q2.vhd : (24, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (24, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (24, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (24, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (24, 28): Unknown identifier "Calculator_pkg".
+# Error: COMP96_0133: q2.vhd : (24, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (24, 42): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (24, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: q2.vhd : (22, 28): Unknown identifier "addition".
+# Error: COMP96_0133: q2.vhd : (22, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (22, 28): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (22, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: q2.vhd : (24, 28): Unknown identifier "subtraction".
+# Error: COMP96_0133: q2.vhd : (24, 28): Cannot find object declaration.
+# Error: COMP96_0289: q2.vhd : (24, 28): Prefix of index must be an array.
+# Error: COMP96_0077: q2.vhd : (24, 28): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2_p.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2_p.vhd
+# Compile Package "my_package"
+# Compile Package Body "my_package"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "q2"
+# Error: COMP96_0015: q2.vhd : (15, 1): ';' expected.
+# Error: COMP96_0016: q2.vhd : (15, 14): Design unit declaration expected.
+# Error: COMP96_0019: q2.vhd : (28, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q2.vhd : (28, 28): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "q2"
+# Compile Architecture "Behavioral" of Entity "q2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2.vhd
+# Compile Entity "q2"
+# Compile Architecture "Behavioral" of Entity "q2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q2_p.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q2_p.vhd
+# Compile Package "my_package"
+# Compile Package Body "my_package"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "FullAdder"
+# Compile Architecture "Behavioral" of Entity "FullAdder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (76, 21): ';' expected.
+# Error: COMP96_0019: q1.vhd : (76, 47): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (77, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (77, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (78, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (78, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladdder"
+# Error: COMP96_0111: q1.vhd : (9, 12): Labels do not match.
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Error: COMP96_0329: q1.vhd : (45, 4): Generate statement must have a label.
+# Error: COMP96_0363: q1.vhd : (46, 9): Component instantiation statement must have a label.
+# Error: COMP96_0358: q1.vhd : (47, 18): Statement is not labeled.
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (78, 21): ';' expected.
+# Error: COMP96_0019: q1.vhd : (78, 47): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (79, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (79, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (80, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (80, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 10 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Error: COMP96_0329: q1.vhd : (45, 4): Generate statement must have a label.
+# Error: COMP96_0363: q1.vhd : (46, 9): Component instantiation statement must have a label.
+# Error: COMP96_0358: q1.vhd : (47, 18): Statement is not labeled.
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (78, 21): ';' expected.
+# Error: COMP96_0019: q1.vhd : (78, 47): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (79, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (79, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (80, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (80, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 9 Errors 0 Warnings  Analysis time :  78.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (77, 21): ';' expected.
+# Error: COMP96_0019: q1.vhd : (77, 47): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (78, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (78, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (79, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (79, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 6 Errors 0 Warnings  Analysis time :  79.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (78, 2): ';' expected.
+# Error: COMP96_0019: q1.vhd : (79, 2): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (80, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (80, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (81, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (81, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 6 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (78, 2): ';' expected.
+# Error: COMP96_0019: q1.vhd : (79, 2): Keyword 'process' expected.
+# Error: COMP96_0015: q1.vhd : (80, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (80, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (81, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (81, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 6 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0015: q1.vhd : (78, 2): ';' expected.
+# Error: COMP96_0019: q1.vhd : (79, 2): Keyword 'end' expected.
+# Error: COMP96_0015: q1.vhd : (81, 9): ';' expected.
+# Error: COMP96_0016: q1.vhd : (81, 16): Design unit declaration expected.
+# Error: COMP96_0019: q1.vhd : (82, 28): Keyword 'of' expected.
+# Error: COMP96_0018: q1.vhd : (82, 28): Identifier expected.
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile failure 6 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "CheckEvenOnes"
+# Compile Architecture "Behavioral" of Entity "CheckEvenOnes"
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "checkevens"
+# Compile Architecture "Behavioral" of Entity "checkevens"
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "checkevens"
+# Compile Architecture "Behavioral" of Entity "checkevens"
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "checkevens"
+# Compile Architecture "Behavioral" of Entity "checkevens"
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work quiz4 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/quiz4/quiz4/src/q1.vhd
+# Compile Entity "fulladder"
+# Compile Architecture "Behavioral" of Entity "fulladder"
+# Compile Entity "NbitAdder"
+# Compile Architecture "Behavioral" of Entity "NbitAdder"
+# Compile Entity "checkevens"
+# Compile Architecture "Behavioral" of Entity "checkevens"
+# Compile Entity "OutputGenerator"
+# Compile Architecture "Behavioral" of Entity "OutputGenerator"
+# Compile Entity "MainComponent"
+# Compile Architecture "Behavioral" of Entity "MainComponent"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]

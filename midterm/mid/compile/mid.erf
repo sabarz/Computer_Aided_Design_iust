@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/saba folder/univercity/term 6 4012/CAD/midterm/mid/src/q3.vhd" 
+MESSAGE "Compile Entity "flip_flop"" 
+MESSAGE "Compile Architecture "behavioral" of Entity "flip_flop"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

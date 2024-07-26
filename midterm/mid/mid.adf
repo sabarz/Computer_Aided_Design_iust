@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=mid
+[Library]
+mid=.\mid\mid.lib
+[$LibMap$]
+mid=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/q1.vhd=-1
+/q3.vhd=-1
+TestBench/counter_TB.vhd=-1
+TestBench/counter_TB_runtest.do=-1
+[Files.Data]
+.\src\q1.vhd=VHDL Source Code
+.\src\q3.vhd=VHDL Source Code
+.\src\TestBench\counter_TB.vhd=VHDL Test Bench
+.\src\TestBench\counter_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=counter_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=

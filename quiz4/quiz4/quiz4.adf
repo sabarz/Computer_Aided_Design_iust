@@ -1,0 +1,30 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=quiz4
+[Library]
+quiz4=.\quiz4\quiz4.lib
+[$LibMap$]
+quiz4=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/q2_p.vhd=-1
+/q2.vhd=-1
+/q1.vhd=-1
+[Files.Data]
+.\src\q2_p.vhd=VHDL Source Code
+.\src\q2.vhd=VHDL Source Code
+.\src\q1.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

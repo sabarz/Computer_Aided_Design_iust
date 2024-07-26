@@ -1,0 +1,56 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=h4
+[Library]
+h4=.\h4\h4.lib
+[$LibMap$]
+h4=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/q1.vhd=-1
+/q1_2.vhd=-1
+/q4.vhd=-1
+/q11.vhd=-1
+/q22.vhd=-1
+TestBench/mealy_TB.vhd=-1
+TestBench/mealy_TB_runtest.do=-1
+TestBench/moore_TB.vhd=-1
+TestBench/moore_TB_runtest.do=-1
+TestBench/nmd_TB.vhd=-1
+TestBench/nmd_TB_runtest.do=-1
+TestBench/q_TB.vhd=-1
+TestBench/q_TB_runtest.do=-1
+TestBench/q2_TB.vhd=-1
+TestBench/q2_TB_runtest.do=-1
+[Files.Data]
+.\src\q1.vhd=VHDL Source Code
+.\src\q1_2.vhd=VHDL Source Code
+.\src\q4.vhd=VHDL Source Code
+.\src\q11.vhd=VHDL Source Code
+.\src\q22.vhd=VHDL Source Code
+.\src\TestBench\mealy_TB.vhd=VHDL Test Bench
+.\src\TestBench\mealy_TB_runtest.do=Macro
+.\src\TestBench\moore_TB.vhd=VHDL Test Bench
+.\src\TestBench\moore_TB_runtest.do=Macro
+.\src\TestBench\nmd_TB.vhd=VHDL Test Bench
+.\src\TestBench\nmd_TB_runtest.do=Macro
+.\src\TestBench\q_TB.vhd=VHDL Test Bench
+.\src\TestBench\q_TB_runtest.do=Macro
+.\src\TestBench\q2_TB.vhd=VHDL Test Bench
+.\src\TestBench\q2_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=q_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=

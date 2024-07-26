@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+quiz4=.\quiz4\quiz4.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+quiz4=1

@@ -1,0 +1,13 @@
+i<>.\src\Q1.vhd
+i<>.\src\type_Q1.vhd
+i<>.\src\Q2.vhd
+i<>.\src\TestBench\q1_TB.vhd
+i<>.\src\TestBench\calculator_TB.vhd
+i<>.\src\Q3.vhd
+i<>.\src\TestBench\q3_TB.vhd
+i<>.\src\Q4.vhd
+i<>.\src\TestBench\q4_TB.vhd
+i<>.\src\type_Q4.vhd
+i<>.\src\Q5.vhd
+i<>.\src\type_Q5.vhd
+i<>.\src\TestBench\q5_TB.vhd

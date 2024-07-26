@@ -1,0 +1,6 @@
+.\src\q1.vhd
+.\src\types.vhd
+.\src\q2.vhd
+.\src\tt.vhd
+.\src\TestBench\nmd_TB.vhd
+.\src\TestBench\hi_TB.vhd

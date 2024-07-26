@@ -1,0 +1,26 @@
+70
+~E 1 "../src/Q2.vhd" 6 calculator
+~A 1 "../src/Q2.vhd" 15 qq2
+~E 1 "../src/TestBench/calculator_TB.vhd" 8 calculator_tb
+~A 1 "../src/TestBench/calculator_TB.vhd" 11 TB_ARCHITECTURE
+~E 1 "../src/Q1.vhd" 7 q1
+~A 1 "../src/Q1.vhd" 13 qq1
+~E 1 "../src/TestBench/q1_TB.vhd" 8 q1_tb
+~A 1 "../src/TestBench/q1_TB.vhd" 11 TB_ARCHITECTURE
+~E 1 "../src/Q3.vhd" 5 q3
+~A 1 "../src/Q3.vhd" 12 nmd
+~E 1 "../src/TestBench/q3_TB.vhd" 7 q3_tb
+~A 1 "../src/TestBench/q3_TB.vhd" 10 TB_ARCHITECTURE
+~E 1 "../src/Q4.vhd" 6 q4
+~A 1 "../src/Q4.vhd" 15 qq4
+~E 1 "../src/TestBench/q4_TB.vhd" 9 q4_tb
+~A 1 "../src/TestBench/q4_TB.vhd" 12 TB_ARCHITECTURE
+~E 1 "../src/Q5.vhd" 6 q5
+~A 1 "../src/Q5.vhd" 15 qq5
+~E 1 "../src/TestBench/q5_TB.vhd" 9 q5_tb
+~A 1 "../src/TestBench/q5_TB.vhd" 12 TB_ARCHITECTURE
+~C 1 "../src/TestBench/calculator_TB.vhd" 64 testbench_for_calculator
+~C 1 "../src/TestBench/q1_TB.vhd" 46 testbench_for_q1
+~C 1 "../src/TestBench/q3_TB.vhd" 54 testbench_for_q3
+~C 1 "../src/TestBench/q4_TB.vhd" 52 testbench_for_q4
+~C 1 "../src/TestBench/q5_TB.vhd" 67 testbench_for_q5

@@ -1,0 +1,1 @@
+-w -erf "E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/compile/q1.erf" -d "E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/compile" -s "E:/saba folder/univercity/term 6 4012/CAD/quiz3/library.cfg" -j "E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/projlib.cfg" -work q1 -O3 -e 100 -work q1 -2002 "E:/saba folder/univercity/term 6 4012/CAD/quiz3/q1/src/q1.vhd" 

@@ -1,0 +1,155 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0078: q22.vhd : (47, 7): Unknown identifier "index_machine1".
+# Error: COMP96_0133: q22.vhd : (47, 7): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (47, 7): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: q22.vhd : (55, 9): Unknown identifier "inputg".
+# Error: COMP96_0133: q22.vhd : (55, 9): Cannot find object declaration.
+# Error: COMP96_0289: q22.vhd : (55, 9): Prefix of index must be an array.
+# Error: COMP96_0077: q22.vhd : (55, 9): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: q22.vhd : (100, 23): Unknown identifier "Done".
+# Error: COMP96_0078: q22.vhd : (108, 19): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (108, 19): Cannot find object declaration.
+# Error: COMP96_0584: q22.vhd : (108, 19): Cannot determine the type of the case expression. Enumeration type, integer type, or one-dimensional array of characters expected.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 14 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0078: q22.vhd : (100, 23): Unknown identifier "Done".
+# Error: COMP96_0078: q22.vhd : (108, 19): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (108, 19): Cannot find object declaration.
+# Error: COMP96_0584: q22.vhd : (108, 19): Cannot determine the type of the case expression. Enumeration type, integer type, or one-dimensional array of characters expected.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0078: q22.vhd : (108, 19): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (108, 19): Cannot find object declaration.
+# Error: COMP96_0584: q22.vhd : (108, 19): Cannot determine the type of the case expression. Enumeration type, integer type, or one-dimensional array of characters expected.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Error: COMP96_0078: q22.vhd : (118, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (118, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (124, 26): Unknown identifier "state2".
+# Error: COMP96_0078: q22.vhd : (124, 36): Unknown identifier "S32".
+# Error: COMP96_0133: q22.vhd : (124, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (130, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (130, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (138, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (138, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 14 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Error: COMP96_0078: q22.vhd : (124, 26): Unknown identifier "state2".
+# Error: COMP96_0078: q22.vhd : (124, 36): Unknown identifier "S32".
+# Error: COMP96_0133: q22.vhd : (124, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (130, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (130, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (138, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (138, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 12 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Error: COMP96_0078: q22.vhd : (124, 36): Unknown identifier "S32".
+# Error: COMP96_0133: q22.vhd : (124, 36): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (124, 36): Undefined type of expression. Expected type 'state_machine2'.
+# Error: COMP96_0078: q22.vhd : (138, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (138, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Error: COMP96_0078: q22.vhd : (138, 26): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (138, 26): Cannot find object declaration.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Error: COMP96_0078: q22.vhd : (151, 48): Unknown identifier "state2".
+# Error: COMP96_0133: q22.vhd : (151, 48): Cannot find object declaration.
+# Error: COMP96_0077: q22.vhd : (151, 48): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Error: COMP96_0123: q22.vhd : (112, 26): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: q22.vhd : (112, 26): Object "S01" cannot be written.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q22.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q22.vhd
+# Compile Entity "q2"
+# Compile Architecture "behavioral" of Entity "q2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/q11.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/q11.vhd
+# Compile Entity "q"
+# Compile Architecture "Behavioral" of Entity "q"
+# Compile Entity "q_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "q_tb"
+# Compile Configuration "TESTBENCH_FOR_q"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work h4 -2002  $dsn/src/TestBench/q2_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/h4/h4/src/TestBench/q2_TB.vhd
+# Compile Entity "q2_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "q2_tb"
+# Compile Configuration "TESTBENCH_FOR_q2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]

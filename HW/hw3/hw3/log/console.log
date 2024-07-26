@@ -1,0 +1,446 @@
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0055: q1.vhd : (6, 10): Cannot find context item "work.Complex_Matrix".
+# Error: COMP96_0078: q1.vhd : (14, 11): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (14, 11): Unknown type.
+# Error: COMP96_0078: q1.vhd : (15, 10): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (15, 10): Unknown type.
+# Error: COMP96_0078: q1.vhd : (17, 16): Unknown identifier "Matrix".
+# Error: COMP96_0064: q1.vhd : (17, 16): Unknown type.
+# Error: COMP96_0056: q1.vhd : (21, 1): Cannot find referenced entity declaration "nmd".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0055: q1.vhd : (6, 10): Cannot find context item "work.types".
+# Error: COMP96_0078: q1.vhd : (14, 11): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (14, 11): Unknown type.
+# Error: COMP96_0078: q1.vhd : (15, 10): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (15, 10): Unknown type.
+# Error: COMP96_0078: q1.vhd : (17, 16): Unknown identifier "Matrix".
+# Error: COMP96_0064: q1.vhd : (17, 16): Unknown type.
+# Error: COMP96_0056: q1.vhd : (21, 1): Cannot find referenced entity declaration "nmd".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (13, 66): Unknown identifier "c".
+# Error: COMP96_0064: types.vhd : (13, 66): Unknown type.
+# Error: COMP96_0078: types.vhd : (14, 31): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (14, 31): Unknown type.
+# Error: COMP96_0078: types.vhd : (14, 46): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (14, 46): Unknown type.
+# Error: COMP96_0078: types.vhd : (15, 33): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (15, 33): Unknown type.
+# Error: COMP96_0078: types.vhd : (15, 48): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (15, 48): Unknown type.
+# Error: COMP96_0078: types.vhd : (17, 30): Unknown identifier "oup".
+# Error: COMP96_0064: types.vhd : (17, 30): Unknown type.
+# Error: COMP96_0078: types.vhd : (18, 31): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (18, 31): Unknown type.
+# Error: COMP96_0057: types.vhd : (23, 1): Cannot find referenced package declaration "my_matrix".
+# Compile failure 15 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (13, 66): Unknown identifier "c".
+# Error: COMP96_0064: types.vhd : (13, 66): Unknown type.
+# Error: COMP96_0078: types.vhd : (14, 31): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (14, 31): Unknown type.
+# Error: COMP96_0078: types.vhd : (14, 46): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (14, 46): Unknown type.
+# Error: COMP96_0078: types.vhd : (15, 33): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (15, 33): Unknown type.
+# Error: COMP96_0078: types.vhd : (15, 48): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (15, 48): Unknown type.
+# Error: COMP96_0078: types.vhd : (17, 30): Unknown identifier "oup".
+# Error: COMP96_0064: types.vhd : (17, 30): Unknown type.
+# Error: COMP96_0078: types.vhd : (18, 31): Unknown identifier "matrix".
+# Error: COMP96_0064: types.vhd : (18, 31): Unknown type.
+# Error: COMP96_0057: types.vhd : (23, 1): Cannot find referenced package declaration "my_matrix".
+# Compile failure 15 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (17, 30): Unknown identifier "oup".
+# Error: COMP96_0064: types.vhd : (17, 30): Unknown type.
+# Error: COMP96_0057: types.vhd : (23, 1): Cannot find referenced package declaration "my_matrix".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (17, 34): Unknown identifier "oup".
+# Error: COMP96_0064: types.vhd : (17, 34): Unknown type.
+# Error: COMP96_0057: types.vhd : (23, 1): Cannot find referenced package declaration "my_matrix".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (17, 34): Unknown identifier "oupp".
+# Error: COMP96_0064: types.vhd : (17, 34): Unknown type.
+# Error: COMP96_0057: types.vhd : (23, 1): Cannot find referenced package declaration "my_matrix".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package Body "my_matrix"
+# Error: COMP96_0078: types.vhd : (45, 29): Unknown identifier "realx".
+# Error: COMP96_0321: types.vhd : (78, 48): Subprogram specification of the body must conform to the subprogram specification of the declaration.
+# Error: COMP96_0078: types.vhd : (81, 15): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (81, 15): Cannot find object declaration.
+# Error: COMP96_0251: types.vhd : (81, 15): Discrete range in the iteration scheme is invalid.
+# Error: COMP96_0078: types.vhd : (82, 17): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (82, 17): Cannot find object declaration.
+# Error: COMP96_0251: types.vhd : (82, 17): Discrete range in the iteration scheme is invalid.
+# Error: COMP96_0078: types.vhd : (83, 10): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (83, 10): Cannot find object declaration.
+# Error: COMP96_0078: types.vhd : (84, 10): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (84, 10): Cannot find object declaration.
+# Compile failure 12 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package Body "my_matrix"
+# Error: COMP96_0321: types.vhd : (78, 48): Subprogram specification of the body must conform to the subprogram specification of the declaration.
+# Error: COMP96_0078: types.vhd : (81, 15): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (81, 15): Cannot find object declaration.
+# Error: COMP96_0251: types.vhd : (81, 15): Discrete range in the iteration scheme is invalid.
+# Error: COMP96_0078: types.vhd : (82, 17): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (82, 17): Cannot find object declaration.
+# Error: COMP96_0251: types.vhd : (82, 17): Discrete range in the iteration scheme is invalid.
+# Error: COMP96_0078: types.vhd : (83, 10): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (83, 10): Cannot find object declaration.
+# Error: COMP96_0078: types.vhd : (84, 10): Unknown identifier "inp".
+# Error: COMP96_0133: types.vhd : (84, 10): Cannot find object declaration.
+# Compile failure 11 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/types.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/types.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Error: COMP96_0055: q1.vhd : (6, 10): Cannot find context item "work.types".
+# Error: COMP96_0078: q1.vhd : (14, 11): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (14, 11): Unknown type.
+# Error: COMP96_0078: q1.vhd : (15, 10): Unknown identifier "matrix".
+# Error: COMP96_0064: q1.vhd : (15, 10): Unknown type.
+# Error: COMP96_0078: q1.vhd : (17, 16): Unknown identifier "Matrix".
+# Error: COMP96_0064: q1.vhd : (17, 16): Unknown type.
+# Error: COMP96_0056: q1.vhd : (21, 1): Cannot find referenced entity declaration "nmd".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -reorder -O3 -e 100 -work hw3 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Top-level unit(s) detected:
+# Entity => nmd
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/nmd_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/nmd_TB.vhd
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Error: COMP96_0117: TestBench/nmd_TB.vhd : (31, 16): Array type for "outp" is not constrained.
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (65, 3): Unknown identifier "first_matrix".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (65, 21): Unknown identifier "val1".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (65, 26): Unknown identifier "val2".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (65, 33): Unknown identifier "val3".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (65, 38): Unknown identifier "val4".
+# Error: COMP96_0133: TestBench/nmd_TB.vhd : (65, 3): Cannot find object declaration.
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (66, 3): Unknown identifier "second_matrix".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (66, 22): Unknown identifier "val5".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (66, 27): Unknown identifier "val6".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (66, 34): Unknown identifier "val7".
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (66, 39): Unknown identifier "val1".
+# Error: COMP96_0133: TestBench/nmd_TB.vhd : (66, 3): Cannot find object declaration.
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Error: COMP96_0209: TestBench/nmd_TB.vhd : (74, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 14 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/nmd_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/nmd_TB.vhd
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Error: COMP96_0117: TestBench/nmd_TB.vhd : (31, 16): Array type for "outp" is not constrained.
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Error: COMP96_0209: TestBench/nmd_TB.vhd : (74, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/nmd_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/nmd_TB.vhd
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Error: COMP96_0117: TestBench/nmd_TB.vhd : (31, 17): Array type for "outpp" is not constrained.
+# Error: COMP96_0078: TestBench/nmd_TB.vhd : (48, 12): Unknown identifier "outp".
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Error: COMP96_0209: TestBench/nmd_TB.vhd : (74, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/nmd_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/nmd_TB.vhd
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Error: COMP96_0117: TestBench/nmd_TB.vhd : (32, 16): Array type for "outp" is not constrained.
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Error: COMP96_0209: TestBench/nmd_TB.vhd : (75, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/nmd_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/nmd_TB.vhd
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q1.vhd
+# Compile Package "my_matrix"
+# Compile Package Body "my_matrix"
+# Compile Entity "nmd"
+# Compile Architecture "Behavioral" of Entity "nmd"
+# Compile Entity "nmd_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "nmd_tb"
+# Compile Configuration "TESTBENCH_FOR_nmd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/tt.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/tt.vhd
+# Compile Package "ff"
+# Compile Package Body "ff"
+# Error: COMP96_0078: tt.vhd : (31, 11): Unknown identifier "result".
+# Error: COMP96_0133: tt.vhd : (31, 11): Cannot find object declaration.
+# Error: COMP96_0106: tt.vhd : (31, 11): Returned value type does not match the type declared in function declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/tt.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/tt.vhd
+# Compile Package "ff"
+# Compile Package Body "ff"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Error: COMP96_0055: q2.vhd : (8, 10): Cannot find context item "work.tt".
+# Compile Architecture "Behavioral" of Entity "hi"
+# Error: COMP96_0056: q2.vhd : (23, 1): Cannot find referenced entity declaration "hi".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/tt.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/tt.vhd
+# Compile Package "ff"
+# Compile Package Body "ff"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Error: COMP96_0055: q2.vhd : (8, 10): Cannot find context item "work.tt".
+# Compile Architecture "Behavioral" of Entity "hi"
+# Error: COMP96_0056: q2.vhd : (23, 1): Cannot find referenced entity declaration "hi".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Error: COMP96_0055: q2.vhd : (8, 10): Cannot find context item "work.tt".
+# Compile Architecture "Behavioral" of Entity "hi"
+# Error: COMP96_0056: q2.vhd : (23, 1): Cannot find referenced entity declaration "hi".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Error: COMP96_0055: q2.vhd : (6, 10): Cannot find context item "work.tt".
+# Compile Architecture "Behavioral" of Entity "hi"
+# Error: COMP96_0056: q2.vhd : (21, 1): Cannot find referenced entity declaration "hi".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Compile Architecture "Behavioral" of Entity "hi"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/hi_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/hi_TB.vhd
+# Compile Entity "hi_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "hi_tb"
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (20, 12): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (20, 12): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (22, 15): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (22, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (23, 15): Unknown identifier "UNSIGNED".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (23, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (27, 15): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (27, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (30, 17): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (30, 17): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (31, 17): Unknown identifier "UNSIGNED".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (31, 17): Unknown type.
+# Compile Configuration "TESTBENCH_FOR_hi"
+# Error: COMP96_0209: TestBench/hi_TB.vhd : (64, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 13 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/hi_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/hi_TB.vhd
+# Compile Entity "hi_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "hi_tb"
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (21, 12): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (21, 12): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (23, 15): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (23, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (24, 15): Unknown identifier "UNSIGNED".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (24, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (28, 15): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (28, 15): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (31, 17): Unknown identifier "STD_LOGIC_VECTOR".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (31, 17): Unknown type.
+# Error: COMP96_0078: TestBench/hi_TB.vhd : (32, 17): Unknown identifier "UNSIGNED".
+# Error: COMP96_0064: TestBench/hi_TB.vhd : (32, 17): Unknown type.
+# Compile Configuration "TESTBENCH_FOR_hi"
+# Error: COMP96_0209: TestBench/hi_TB.vhd : (65, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 13 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/hi_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/hi_TB.vhd
+# Compile Entity "hi_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "hi_tb"
+# Error: COMP96_0117: TestBench/hi_TB.vhd : (37, 17): Array type for "outp2" is not constrained.
+# Compile Configuration "TESTBENCH_FOR_hi"
+# Error: COMP96_0209: TestBench/hi_TB.vhd : (70, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/TestBench/hi_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/TestBench/hi_TB.vhd
+# Compile Entity "hi_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "hi_tb"
+# Compile Configuration "TESTBENCH_FOR_hi"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work hw3 -2002  $dsn/src/q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/saba folder/univercity/term 6 4012/CAD/HW/hw3/hw3/src/q2.vhd
+# Compile Entity "hi"
+# Compile Architecture "Behavioral" of Entity "hi"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
